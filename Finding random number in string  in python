@@ -1,0 +1,6 @@
+
+import random
+ list1 = [2, 8, 6, 7, 9, 3]
+print(random.choice(list1))
+ string = "striver"
+print(random.choice(string))
